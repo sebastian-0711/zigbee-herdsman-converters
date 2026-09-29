@@ -1,5 +1,17 @@
 # Changelog
 
+## [26.115.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.114.0...v26.115.0) (2026-09-29)
+
+
+### Features
+
+* **add:** ZY-N1 ([#13332](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13332)) ([8d3253d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8d3253d7ab15ff14c8f3c05f735e10dbc7cb98c0))
+
+
+### Bug Fixes
+
+* Develco HESZB-120: fix temperature ([#13333](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13333)) ([ce828f5](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ce828f50c38db20125f4a6c54fbf3052c34aa9a3))
+
 ## [26.114.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.113.0...v26.114.0) (2026-09-29)
 
 
